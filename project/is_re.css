@@ -1,0 +1,18 @@
+#A{
+	margin-left: 100px;
+	padding-top: 120px;
+}
+#b{
+	background-color: orange;
+	margin-left: 10px;
+}
+#c{
+	background-image: url("u.jfif");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	width: 500px;
+	height: 700px;
+	margin-left: 500px
+	
+}

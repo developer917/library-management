@@ -1,0 +1,28 @@
+#a{
+	width: 130px;
+	
+}
+#b{
+	width: 130px;
+	height: 30px;
+	margin-left: 40px;
+	padding-bottom: 33px;
+}
+#d{
+	width: 10%;
+	height: 40px;
+}
+h2{
+	text-shadow: 2px 2px 5px cyan;
+}
+#left{
+     float: left;
+}
+#right{
+    float: right;
+
+}
+#A,#B,#C{
+	width: 400px;
+	height: 200px;
+}

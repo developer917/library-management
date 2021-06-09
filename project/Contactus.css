@@ -1,0 +1,22 @@
+body{
+	background-image: url("contact1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+h1{
+	text-shadow: 3px 2px 2px cyan;
+	font-size: 40px;
+}
+#a{
+	margin-left: 480px;
+}
+pre{
+	color: blue;
+	font-size: 20px;
+}
+#b{
+	margin-right: 60%;
+	color: red;
+	font-size: 20px;
+}

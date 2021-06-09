@@ -1,0 +1,37 @@
+#a{
+	padding-left:590px;
+	
+}
+#b{
+	padding-left:198px;
+}
+#c{
+	margin-left:-198px;
+	width:398px;
+}
+#d{
+	margin-left:-80px;
+	
+}
+#e{
+	margin-left:50px;
+}
+#f{
+	width: 34px;
+}
+
+h4{
+	margin-left:-85px;
+}
+p1{
+	margin-left:-35px;
+	
+}
+div{
+	border:1px solid;
+	width:200px;
+	height:415px;
+	margin-left:550px;
+	margin-top:80px;
+	background-color:lightcyan;	
+}

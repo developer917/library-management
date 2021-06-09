@@ -1,0 +1,30 @@
+h1{
+	text-shadow: 3px 2px 4px orange;
+}
+#A{
+	margin-left: 100px;
+	padding-top: 120px;
+}
+#b{
+	background-color: orange;
+	margin-left: 10px;
+}
+#c{
+	background-image: url("u.jfif");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	width: 500px;
+	height: 700px;
+	margin-left: 500px
+	
+}
+#d{
+	margin-left: 105px;
+	margin-top: -45px;
+}
+body{
+	background-image: url(contact1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
